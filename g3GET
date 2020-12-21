@@ -1,0 +1,1 @@
+owner{email,id,driver_license{name{full}}},registration{license_plate},year,make,model,vin,trim,home_location{address{country,extended_street_address,locality,postcode,street_address,subdivision},geopoint,parking_type},time_zone,name,equipment{fuel_type,transmission}zone{group{name,market{abbreviation,name}}},status{ticket_id,value}
